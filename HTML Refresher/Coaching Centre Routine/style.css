@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #1B3A59;
+    color: #9B846B;
+    text-align: center;
+    min-height: 500vh;
+}
+
+header{
+    margin-top: 4rem;
+    padding: 2rem;
+}
+header h1{
+    font-size: 4rem;
+}
+
+table,th,tr,td,caption{
+margin-top: 2rem;
+margin-left: auto;
+margin-right: auto;
+ border: 1px solid #9B846B;
+ font-family: 'Courier New', Courier, monospace;
+ border-collapse: collapse;
+ padding: 1rem;
+}
